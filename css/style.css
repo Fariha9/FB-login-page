@@ -1,0 +1,39 @@
+#logo{
+    color: whitesmoke;
+    font-size: 50px;
+    font-family: 'Secular One', sans-serif;
+}
+
+.top{
+    color: whitesmoke;
+}
+#login{
+    color: whitesmoke;
+    background-color: #3b5998;
+    
+}
+
+
+.p1{
+    text-align: center;
+    padding: auto;
+    margin-left: 10px;
+}
+.p2{
+    font-size: larger;
+}
+#h1{
+    
+
+  color: #333;
+  font-family: sans-serif;
+text-align: left ;
+
+    
+}
+#signup{
+    background-color: green;
+    color: azure;
+    padding: 7px 20px;
+    font-size: large;
+}
